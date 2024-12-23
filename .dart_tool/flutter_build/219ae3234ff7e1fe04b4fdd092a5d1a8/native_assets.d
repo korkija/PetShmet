@@ -1,0 +1,1 @@
+ /Users/andrii.yevarnytskyi/Documents/flutter/pet_shmet/.dart_tool/flutter_build/219ae3234ff7e1fe04b4fdd092a5d1a8/native_assets.yaml: 
